@@ -96,7 +96,14 @@ function App() {
       <input type="text" placeholder="Coordenada X" value={coordenadaX} onChange={e => setCoordenadaX(e.target.value)} />
       <input type="text" placeholder="Coordenada Y" value={coordenadaY} onChange={e => setCoordenadaY(e.target.value)} />
       <button onClick={cadastrarCliente}>Cadastrar</button>
+
+      <footer align="center" className="App-footer">
+        &copy; 2024 Moa Fernandes. Todos os direitos reservados.
+      </footer>
     </div>
+
+      
+
   );
 }
 
