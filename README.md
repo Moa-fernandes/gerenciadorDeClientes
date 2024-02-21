@@ -23,10 +23,10 @@ Este é um projeto de sistema de gerenciamento de clientes, desenvolvido utiliza
 Configuração do Projeto:
 
 1. Clone o repositório: git clone https://github.com/Moa-fernandes/gerenciadorDeClientes.git
-                     cd gerenciadorDeClientes
+                     > cd gerenciadorDeClientes
 
-2. Instale as dependências do backend: cd backend
-                                       npm install
+2. Instale as dependências do backend: > cd backend
+                                        > npm install
 
 3. Configure as variáveis de ambiente no arquivo .env na pasta backend:
 DB_USER=seu_usuario
@@ -38,16 +38,16 @@ DB_NAME=facilita
 4. Execute o backend: node server.js
 
 5. Instale as dependências do frontend: cd frontend
-                                        npm install
+                                        > npm install
 
 6. Execute o frontend: npm start
 
 7. Clonar o Repositório:git clone https://github.com/Moa-fernandes/gerenciadorDeClientes.git 
-cd gerenciadorDeClientes 
+ > cd gerenciadorDeClientes 
 
 8. Adicionar Repositório Remoto: git remote add origin https://github.com/Moa-fernandes/gerenciadorDeClientes.git 
 
-9. Adicionar Alterações e Realizar Commit: git add . git commit -m "Mensagem do commit" 
+9. Adicionar Alterações e Realizar Commit: git add . > git commit -m "Mensagem do commit" 
 
 10. Enviar Alterações para o GitHub: git push -u origin master
 
