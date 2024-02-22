@@ -25,7 +25,7 @@ Configuração do Projeto:
 1. Clone o repositório: git clone https://github.com/Moa-fernandes/gerenciadorDeClientes.git
                      > cd gerenciadorDeClientes
 
-2. Instale as dependências do backend: > cd backend
+2. Instale as dependências do backend:  > cd backend
                                         > npm install
 
 3. Configure as variáveis de ambiente no arquivo .env na pasta backend:
@@ -37,7 +37,7 @@ DB_NAME=facilita
 
 4. Execute o backend: node server.js
 
-5. Instale as dependências do frontend: cd frontend
+5. Instale as dependências do frontend: > cd frontend
                                         > npm install
 
 6. Execute o frontend: npm start
